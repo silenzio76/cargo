@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="loadData">C:/Users/wasse/OneDrive/Immagini/ForkliftTruck_Loaded_Grey.png</file>
+        <file alias="cargoPlane">C:/Users/wasse/OneDrive/Immagini/RecoveryTruck_Red.png</file>
+        <file alias="quit">C:/Users/wasse/OneDrive/Immagini/Exit_Plain_Orange.png</file>
+    </qresource>
+    <qresource prefix="/obj">
+        <file alias="plan">C:/Users/wasse/Downloads/flatbed/untitled.obj</file>
+        <file alias="truck">C:/Users/wasse/Downloads/truck/truck.obj</file>
+    </qresource>
+</RCC>
